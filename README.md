@@ -12,3 +12,5 @@ My setup:
   - Memory: 49 GB (per GPU)
   - CUDA Version: 12.2
   - Driver Version: 535.161.08
+
+Also tested with NVIDIA A100 Tensor Core GPUs
